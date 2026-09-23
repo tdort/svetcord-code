@@ -1,4 +1,5 @@
 # Světcord
+Jak vy si to zapnete je na vás ale dám vám radu
 
 Vlastní klon Discordu postavený od nuly v čistém PHP (PDO) + MySQL a
 vanilla JS — bez frameworků, bez build kroku. Servery, textové a hlasové

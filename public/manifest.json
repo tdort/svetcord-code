@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Světcord",
+  "orientation": "any",
+  "scope": "retroforge.xyz",
+  "short_name": "Světcord",
+  "start_url": "retroforge.xyz",
+  "theme_color": "#ffffff",
+  "id": "Světcord2"
+}
