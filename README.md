@@ -7,6 +7,12 @@
 > očekávání. Berte to tak a podle toho k tomu přistupujte (rozhodně bych
 > na tom zatím nestavěl nic ostrého).
 
+> [!NOTE]
+> Na projektu budu ještě dál pracovat, ale servery, na kterých to běželo,
+> už možná nikdy nebudou zpátky nahoře — takže tohle beru spíš jako
+> pokračování vývoje pro sebe/komunitu na GitHubu, ne jako obnovení
+> nějaké veřejně běžící instance. Jestli chcete push request tak můžete.
+
 Vlastní klon Discordu postavený od nuly v čistém PHP (PDO) + MySQL a
 vanilla JS — bez frameworků, bez build kroku. Servery, textové a hlasové
 kanály, chat (na pollingu), DMka, role s oprávněními, správa členů,
