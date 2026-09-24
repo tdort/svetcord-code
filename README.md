@@ -6,6 +6,7 @@
 > edge-case, chyby v konzoli, nebo věci, co nefungují úplně podle
 > očekávání. Berte to tak a podle toho k tomu přistupujte (rozhodně bych
 > na tom zatím nestavěl nic ostrého).
+> Backdoory a zranitelnosti nahlašujte [tady](https://github.com/tdort/svetcord-code/issues)
 
 > [!NOTE]
 > Na projektu budu ještě dál pracovat, ale servery, na kterých to běželo,
