@@ -6,6 +6,8 @@
 > nefungují úplně podle očekávání. Berte to tak a podle toho k tomu
 > přistupujte (rozhodně bych na tom zatím nestavěl nic ostrého).
 
+Jak vy si to zapnete je na vás ale dám vám radu
+
 Vlastní klon Discordu postavený od nuly v čistém PHP (PDO) + MySQL a
 vanilla JS — bez frameworků, bez build kroku. Servery, textové a hlasové
 kanály, chat (na pollingu), DMka, role s oprávněními, správa členů,
