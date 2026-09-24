@@ -1,12 +1,11 @@
 # Světcord
 
-> ⚠️ **Varování:** tenhle projekt má dost bugů a chyb. Nepsal jsem ho
-> jako produkční/komerční řešení, spíš jako projekt pro sebe — možná
-> narazíte na nedodělané edge-case, chyby v konzoli, nebo věci, co
-> nefungují úplně podle očekávání. Berte to tak a podle toho k tomu
-> přistupujte (rozhodně bych na tom zatím nestavěl nic ostrého).
-
-Jak vy si to zapnete je na vás ale dám vám radu
+> [!WARNING]
+> Tenhle projekt má dost bugů a chyb. Nepsal jsem ho jako produkční/komerční
+> řešení, spíš jako projekt pro sebe — možná narazíte na nedodělané
+> edge-case, chyby v konzoli, nebo věci, co nefungují úplně podle
+> očekávání. Berte to tak a podle toho k tomu přistupujte (rozhodně bych
+> na tom zatím nestavěl nic ostrého).
 
 Vlastní klon Discordu postavený od nuly v čistém PHP (PDO) + MySQL a
 vanilla JS — bez frameworků, bez build kroku. Servery, textové a hlasové
