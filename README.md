@@ -184,3 +184,8 @@ routing soubor v `api/`. Pro novou funkci (např. reakce na zprávy,
 připnuté zprávy, žádosti o přátelství) stačí přidat tabulku do
 `schema.sql`, model a API akci — vzory ve frontend `app.js` (fetch
 helpery, modal systém, polling) se dají použít stejným způsobem.
+
+## Známé bugy
+
+1. UI se někdy rozbije
+2. Zduplikujou se poslané zprávy po poslání
